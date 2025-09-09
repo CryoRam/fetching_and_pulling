@@ -1,2 +1,4 @@
 TESD 1100 Client-Side Web Development
 English
+SDEV 0000 Software Development Program Orientation
+Math
